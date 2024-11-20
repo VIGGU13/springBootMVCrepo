@@ -1,0 +1,15 @@
+@charset "UTF-8";
+*{
+	margin: 0px;
+	box-sizing: border-box;
+	padding: 0px
+}
+body{
+	height:100vh;
+	weight:100vw;
+	background-color: aqua;
+}
+form{
+	height: 50px;
+	width: 50px;
+}
